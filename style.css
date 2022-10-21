@@ -7,7 +7,6 @@
 body {
   font-family: sans-serif;
   line-height: 1.4;
-  background-color: #adb5bd;
 }
 
 /* .product-image {
@@ -184,6 +183,6 @@ body {
 }
 
 .add-cart:hover {
-  background-color: #444;
+  background-color: #fff;
   color: #000;
 }
